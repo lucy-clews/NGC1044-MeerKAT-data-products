@@ -10,11 +10,16 @@ Data products that are included:
 - L to S band spectral ageing maps for the JP model at 3 different resolutions: 7,12 and 20 arcseconds (e.g. NGC1044_SpectralAgeing_12arc_JP_B7.94e-10.fits) 
 - L to S band spectral ageing error maps for the JP model at 3 different resolutions: 7,12 and 20 arcseconds (e.g. NGC1044_SpecAgeErrorMap_JP_12arc_B7.94e-10.fits)
 - L to S band spectral ageing maps for the KP model at 3 different resolutions: 7,12 and 20 arcseconds (e.g. NGC1044_SpectralAgeing_12arc_KP_B7.94e-10.fits)
-- L to S band spectral ageing error maps for the KP model at 3 different resolutions: 7,12 and 20 arcseconds (e.g NGC1044_SpecAgeErrorMap_12arc_KP_B7.94e-10.fits)
-- Peak Faraday rotation measure map: NGC1044_RMSynth_peakRM.fits
+- L to S band spectral ageing error maps for the KP model at 3 different resolutions: 7,12 and 20 arcseconds (e.g. NGC1044_SpecAgeErrorMap_12arc_KP_B7.94e-10.fits)
+- Peak Faraday rotation measure (RM) map: NGC1044_RMSynth_peakRM.fits
+- A map of the maximum polarized intensity in each Faraday dispersion function (FDF, i.e. for each pixel): NGC1044_RMSynth_FDF_maxPI.fits
+- NGC1044_RMSynth_peak_fit_dPhiPeakPIfit_rm2.fits
+
 
 
 Data products that are not included here due to file size restrictions, but are available on request to the author:
 - Measurement sets
 - Stokes I, Q, and U cubes
-- RMSF
+- RMSF cube
+- Dirty FDF cube
+- clean FDF cube
