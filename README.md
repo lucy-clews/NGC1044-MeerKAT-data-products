@@ -11,9 +11,10 @@ Data products that are included:
 - L to S band spectral ageing error maps for the JP model at 3 different resolutions: 7,12 and 20 arcseconds (e.g. NGC1044_SpecAgeErrorMap_JP_12arc_B7.94e-10.fits)
 - L to S band spectral ageing maps for the KP model at 3 different resolutions: 7,12 and 20 arcseconds (e.g. NGC1044_SpectralAgeing_12arc_KP_B7.94e-10.fits)
 - L to S band spectral ageing error maps for the KP model at 3 different resolutions: 7,12 and 20 arcseconds (e.g. NGC1044_SpecAgeErrorMap_12arc_KP_B7.94e-10.fits)
-- Peak Faraday rotation measure (RM) map: NGC1044_RMSynth_peakRM.fits
-- A map of the maximum polarized intensity in each Faraday dispersion function (FDF, i.e. for each pixel): NGC1044_RMSynth_FDF_maxPI.fits
-- NGC1044_RMSynth_peak_fit_dPhiPeakPIfit_rm2.fits
+- NGC1044_RMSynth_peakRM.fits: Peak Faraday rotation measure (RM) map.
+- NGC1044_RMSynth_FDF_maxPI.fits: A map of the maximum polarized intensity in each Faraday dispersion function (FDF, i.e. for each pixel).
+- NGC1044_RMSynth_peak_fit_dPhiPeakPIfit_rm2.fits: Fitting error in peak Faraday depth.
+- NGC1044_peak_fitdFDFcorMAD.fits: Estimated noise in the Faraday depth spectrum, computed using the median deviation from the median (MADFM) of polarized intensity in the spectrum, and then correcting to be equivalent to a Gaussian sigma.
 
 
 
