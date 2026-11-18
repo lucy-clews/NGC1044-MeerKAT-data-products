@@ -87,7 +87,7 @@ Example files:
 ---
 ## Fractional Polarisation
 
-- `NGC1044_fractional_polarisation.fits`
+- `NGC1044_fractional_polarisation.fits` | Rician bias corrected fractional polarisation map. Calculated from the L-band data using an inverse-variance weighted mean of the bias corrected polarised intensities.
 ---
 ## Faraday Rotation Measure Products
 
