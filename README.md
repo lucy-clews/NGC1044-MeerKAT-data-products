@@ -85,7 +85,10 @@ Example files:
 - `NGC1044_SpecAgeErrorMap_KP_12arc_B7_94e-10.fits`
 
 ---
+## Fractional Polarisation
 
+`NGC1044_fractional_polarisation.fits`
+---
 ## Faraday Rotation Measure Products
 
 | File | Description |
