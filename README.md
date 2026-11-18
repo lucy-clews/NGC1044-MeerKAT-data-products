@@ -87,7 +87,7 @@ Example files:
 ---
 ## Fractional Polarisation
 
-`NGC1044_fractional_polarisation.fits`
+- `NGC1044_fractional_polarisation.fits`
 ---
 ## Faraday Rotation Measure Products
 
